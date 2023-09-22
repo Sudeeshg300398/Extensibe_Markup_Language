@@ -21,17 +21,6 @@ As a Markup language XML, it labels, categorizes and structurally organizes info
 
 * An XML document that adheres to basic XML rules is well-formed XML document.
 
-* One that adheres to its schema(XSD) is valid.
-
-
-LOGICAL STRUCTURE
-
-<root>
-  <element>
-    <subelement>...</subelement>
-  </element>
-</root>
-
-https://way2tutorial.com/images/xml_employee.png
+* One that adheres to its schema(XSD) is Valid XML file.
 
 This repository contains python code for handling and processing XML data.It includes functionalities such as XML validation against XSD schema, XML parsing, conversion of XML data to dataframe.
