@@ -24,3 +24,7 @@ As a Markup language XML, it labels, categorizes and structurally organizes info
 * One that adheres to its schema(XSD) is Valid XML file.
 
 This repository contains python code for handling and processing XML data.It includes functionalities such as XML validation against XSD schema, XML parsing, conversion of XML data to dataframe.
+
+For more details, code, understanding click the link below.
+
+https://github.com/Sudeeshg300398/Extensibe_Markup_Language/blob/main/READING_AN_XML_FILE.ipynb
